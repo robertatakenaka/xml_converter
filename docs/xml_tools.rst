@@ -15,7 +15,7 @@ Install the softwares below:
 How to convert XML PMC to XML SciELO
 ------------------------------------
 
-  - Download the XSL
+  - Download the XSL `to convert XML SciELO to XML PMC v3.0 <xml2pmc.xsl>`_
   - Execute in the command line:
 
   .. code-block::
